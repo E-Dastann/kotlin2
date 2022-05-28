@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin2</string>
+    <string name="send">send</string>
+    <string name="randombtn">randomBtn</string>
+    <string name="write">write</string>
+    <string name="todo">TODO</string>
+    <string name="write_here">\"что то пиши \"</string>
+</resources>
